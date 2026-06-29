@@ -17,7 +17,7 @@ _(💡 Tip: Is placeholder link ko apni image path/URL se badlein)_
 ### 2. Maturity & Explicit Ratings Breakdown
 
 Yeh chart explicit/adult content (TV-MA, R) aur family-friendly content ka percentage breakdown dikhata hai.
-![Maturity Ratings](https://via.placeholder.com/600x300.png?text=2.+Explicit+vs+Family+Ratings+Bar+Chart)
+![Maturity Ratings](netflix_Rating_count.png)
 
 ### 3. Content Growth Over Time (Trend Analysis)
 
