@@ -11,7 +11,7 @@ Yahan project ke important data insights ki images di gayi hain:
 ### 1. Overall Content Distribution
 
 Is chart me dikhaya gaya hai ki Netflix par Movies aur TV Shows ka ratio kya hai.
-![Content Distribution](https://via.placeholder.com/600x300.png?text=1.+Movies+vs+TV+Shows+Pie+Chart)
+![Content Distribution](netflix_Type_count.png)
 _(💡 Tip: Is placeholder link ko apni image path/URL se badlein)_
 
 ### 2. Maturity & Explicit Ratings Breakdown
