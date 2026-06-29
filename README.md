@@ -22,7 +22,7 @@ Yeh chart explicit/adult content (TV-MA, R) aur family-friendly content ka perce
 ### 3. Content Growth Over Time (Trend Analysis)
 
 Pichle kuch saalon me (2010 - 2026) Netflix par content badhne ka saal-ba-saal trend.
-![Growth Trend](https://via.placeholder.com/600x300.png?text=3.+Content+Growth+Line+Chart)
+![Growth Trend](netflix_release_year.png)
 
 ### 4. Top Genres on Netflix
 
