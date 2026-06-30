@@ -27,7 +27,7 @@ Pichle kuch saalon me (2010 - 2026) Netflix par content badhne ka saal-ba-saal t
 ### 4. Top Genres on Netflix
 
 Kaunse genres (Drama, Comedy, Documentaries) sabse zyada popular aur available hain.
-![Top Genres](https://via.placeholder.com/600x300.png?text=4.+Top+Genres+Horizontal+Bar+Chart)
+![Top Genres](netflix_country.png)
 
 ### 5. Global Content Heatmap
 
