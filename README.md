@@ -32,7 +32,7 @@ Kaunse genres (Drama, Comedy, Documentaries) sabse zyada popular aur available h
 ### 5. Global Content Heatmap
 
 Duniya ke kaunse deshon me sabse zyada Netflix content produce hota hai.
-![Geographic Heatmap](https://via.placeholder.com/600x300.png?text=5.+Global+Production+Geographic+Map)
+![Geographic Heatmap](netflix_Movies_duration.png)
 
 ---
 
